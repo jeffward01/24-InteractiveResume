@@ -1,5 +1,21 @@
-*{
+* {
     font-family: 'Ubuntu', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+}
+
+
+/*Main App CSS*/
+
+.md-button.md-fab {
+  line-height: 26rem;
+  min-width: 0;
+  width: 26rem;
+  height: 26rem;
+  border-radius: 50%;
+}
+
+.center{
+    margin: 0 auto;
+    text-align: center;
 }
